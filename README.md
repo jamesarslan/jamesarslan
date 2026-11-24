@@ -6,7 +6,7 @@ CTO at Tagd, where I am building an AI-powered contract lifecycle platform. I de
 
 ## Featured
 
-- **[local-agent-workbench](https://github.com/jamesarslan/local-agent-workbench)** ([Website](https://jamesarslan.github.io/local-agent-workbench/)): MIT-licensed desktop app that pairs a model source (managed `llama.cpp`/Strata, running Ollama/LM Studio servers, a GPU machine over plain SSH, or hosted APIs) with a coding-agent CLI (`OMP`, `Pi`, `Claude Code`, `Codex`, `Hermes`, `opencode`) per project folder—with `AGENTS.md` project setup, 8 starter kits, MCP tooling, embedded terminal dock, and zero telemetry.
+- **[local-agent-workbench](https://github.com/jamesarslan/local-agent-workbench)** ([Website](https://jamesarslan.github.io/local-agent-workbench/) · [Releases](https://github.com/jamesarslan/local-agent-workbench/releases) · [Discussions](https://github.com/jamesarslan/local-agent-workbench/discussions)): MIT-licensed desktop app that pairs a model source (managed `llama.cpp`/Strata, running Ollama/LM Studio/vLLM servers, Linux or Windows GPU boxes over plain SSH, or hosted APIs) with a coding-agent CLI (`OMP`, `Pi`, `Claude Code`, `Codex`, `Hermes`, `opencode`) per project folder—with copyable run summaries, portable folder settings, `AGENTS.md` project setup, 8 starter kits (including Blender & Roblox Studio MCP), embedded terminal dock, and zero telemetry.
 - [local-ai-coding-setup](https://github.com/jamesarslan/local-ai-coding-setup): local LLM coding setup and inference benchmarks on an RTX 5090, using llama.cpp, OpenCode and MCP tooling.
 - [deskbridge-public](https://github.com/jamesarslan/deskbridge-public): open-source keyboard, mouse and clipboard sharing for Windows and Fedora/Linux, built on Deskflow.
 - [ai-memory-system](https://github.com/jamesarslan/ai-memory-system) (experimental): conversation compression and semantic retrieval for AI assistants.
@@ -18,4 +18,5 @@ Merged pull requests to [odysseus-dev/odysseus](https://github.com/odysseus-dev/
 ## Links
 
 - Website: [jamesarslan.com](https://jamesarslan.com)
+- X: [@JamesArslanSwe](https://x.com/JamesArslanSwe)
 - LinkedIn: [linkedin.com/in/james-arslan](https://www.linkedin.com/in/james-arslan/)
